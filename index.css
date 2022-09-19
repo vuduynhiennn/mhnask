@@ -9,6 +9,7 @@
 
 ul li {
     list-style-type: none;
+    font-size: 1rem;
 }
 
 
@@ -18,7 +19,7 @@ ul li a {
 }
 
 body {
-    padding: 10px 40px;
+    padding: 0.6px 2rem;
 }
 span {
     color: red;
