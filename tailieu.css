@@ -42,3 +42,7 @@ p::before {
     padding: 15px;
     border-radius: 20px;
   }
+
+iframe {
+    width: 100%;
+}
