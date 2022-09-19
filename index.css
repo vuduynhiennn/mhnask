@@ -60,3 +60,7 @@ p::before {
   .mhnQT:hover {
     background-color: rgb(255, 152, 169);
   }
+
+  img {
+    width: 100%;
+  }
