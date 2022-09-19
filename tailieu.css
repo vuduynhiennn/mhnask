@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    border: none;
+    margin: 0;
+    font-family: sans-serif;
+    line-height: 3rem;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+
+
+ a {
+    text-decoration: none;
+    font-size: large;
+}
+
+body {
+    padding: 10px 2rem;
+}
+
+body {
+    padding: 10px 40px;
+}
+span {
+    color: red;
+    font-weight: bold;
+    text-transform: uppercase;
+
+  }
+
+p::before {
+    content: '-';
+}
+  
+.mhnCtn {
+    margin-bottom: 30px;
+    background-color: rgb(212, 212, 212);
+    padding: 15px;
+    border-radius: 20px;
+  }
